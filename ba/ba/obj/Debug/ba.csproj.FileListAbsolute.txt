@@ -1,0 +1,310 @@
+C:\Users\tung.nt\source\repos\ba\ba\bin\ba.dll.config
+C:\Users\tung.nt\source\repos\ba\ba\bin\ba.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\ba.pdb
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\csc.exe
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\csc.exe.config
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\csc.rsp
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\csi.exe
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\csi.exe.config
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\csi.rsp
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.AppContext.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Console.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.IO.Compression.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Net.Http.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.ValueTuple.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\vbc.exe
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\vbc.exe.config
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\vbc.rsp
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\VBCSCompiler.exe
+C:\Users\tung.nt\source\repos\ba\ba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tung.nt\source\repos\ba\ba\bin\Antlr3.Runtime.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\EntityFramework.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\EntityFramework.SqlServer.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Options.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Models.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Newtonsoft.Json.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Buffers.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.ComponentModel.Annotations.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Memory.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Numerics.Vectors.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Text.Encodings.Web.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.Helpers.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.Mvc.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.Optimization.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.Razor.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.WebPages.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.WebPages.Razor.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\WebGrease.dll
+C:\Users\tung.nt\source\repos\ba\ba\bin\Models.pdb
+C:\Users\tung.nt\source\repos\ba\ba\bin\Models.dll.config
+C:\Users\tung.nt\source\repos\ba\ba\bin\EntityFramework.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\EntityFramework.SqlServer.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Options.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Buffers.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Memory.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Numerics.Vectors.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Text.Encodings.Web.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.Helpers.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.Mvc.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.Optimization.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.Razor.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.WebPages.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\System.Web.WebPages.Razor.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Newtonsoft.Json.xml
+C:\Users\tung.nt\source\repos\ba\ba\bin\Antlr3.Runtime.pdb
+C:\Users\tung.nt\source\repos\ba\ba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tung.nt\source\repos\ba\ba\obj\Debug\ba.csproj.AssemblyReference.cache
+C:\Users\tung.nt\source\repos\ba\ba\obj\Debug\ba.csproj.CoreCompileInputs.cache
+C:\Users\tung.nt\source\repos\ba\ba\obj\Debug\ba.csproj.CopyComplete
+C:\Users\tung.nt\source\repos\ba\ba\obj\Debug\ba.dll
+C:\Users\tung.nt\source\repos\ba\ba\obj\Debug\ba.pdb
+D:\Git App\TestMVC\ba\ba\bin\ba.dll.config
+D:\Git App\TestMVC\ba\ba\bin\ba.dll
+D:\Git App\TestMVC\ba\ba\bin\ba.pdb
+D:\Git App\TestMVC\ba\ba\bin\roslyn\csc.exe
+D:\Git App\TestMVC\ba\ba\bin\roslyn\csc.exe.config
+D:\Git App\TestMVC\ba\ba\bin\roslyn\csc.rsp
+D:\Git App\TestMVC\ba\ba\bin\roslyn\csi.exe
+D:\Git App\TestMVC\ba\ba\bin\roslyn\csi.exe.config
+D:\Git App\TestMVC\ba\ba\bin\roslyn\csi.rsp
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git App\TestMVC\ba\ba\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.AppContext.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Collections.Immutable.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Console.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Globalization.Calendars.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.IO.Compression.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.IO.FileSystem.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Net.Http.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Net.Sockets.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.ValueTuple.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Xml.XPath.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Git App\TestMVC\ba\ba\bin\roslyn\vbc.exe
+D:\Git App\TestMVC\ba\ba\bin\roslyn\vbc.exe.config
+D:\Git App\TestMVC\ba\ba\bin\roslyn\vbc.rsp
+D:\Git App\TestMVC\ba\ba\bin\roslyn\VBCSCompiler.exe
+D:\Git App\TestMVC\ba\ba\bin\roslyn\VBCSCompiler.exe.config
+D:\Git App\TestMVC\ba\ba\bin\Antlr3.Runtime.dll
+D:\Git App\TestMVC\ba\ba\bin\EntityFramework.dll
+D:\Git App\TestMVC\ba\ba\bin\EntityFramework.SqlServer.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Http.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Routing.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Options.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Primitives.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Net.Http.Headers.dll
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Web.Infrastructure.dll
+D:\Git App\TestMVC\ba\ba\bin\Models.dll
+D:\Git App\TestMVC\ba\ba\bin\Newtonsoft.Json.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Buffers.dll
+D:\Git App\TestMVC\ba\ba\bin\System.ComponentModel.Annotations.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Memory.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Numerics.Vectors.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Text.Encodings.Web.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Threading.Tasks.Extensions.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Web.Helpers.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Web.Mvc.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Web.Optimization.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Web.Razor.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Web.WebPages.Deployment.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Web.WebPages.dll
+D:\Git App\TestMVC\ba\ba\bin\System.Web.WebPages.Razor.dll
+D:\Git App\TestMVC\ba\ba\bin\WebGrease.dll
+D:\Git App\TestMVC\ba\ba\bin\Models.pdb
+D:\Git App\TestMVC\ba\ba\bin\Models.dll.config
+D:\Git App\TestMVC\ba\ba\bin\EntityFramework.xml
+D:\Git App\TestMVC\ba\ba\bin\EntityFramework.SqlServer.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Http.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Routing.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Options.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Extensions.Primitives.xml
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.Net.Http.Headers.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Buffers.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Memory.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Numerics.Vectors.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Text.Encodings.Web.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Threading.Tasks.Extensions.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Web.Razor.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Web.Helpers.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Web.Mvc.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Web.Optimization.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Web.WebPages.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Web.WebPages.Deployment.xml
+D:\Git App\TestMVC\ba\ba\bin\System.Web.WebPages.Razor.xml
+D:\Git App\TestMVC\ba\ba\bin\Newtonsoft.Json.xml
+D:\Git App\TestMVC\ba\ba\bin\Antlr3.Runtime.pdb
+D:\Git App\TestMVC\ba\ba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git App\TestMVC\ba\ba\obj\Debug\ba.csproj.AssemblyReference.cache
+D:\Git App\TestMVC\ba\ba\obj\Debug\ba.csproj.CoreCompileInputs.cache
+D:\Git App\TestMVC\ba\ba\obj\Debug\ba.csproj.CopyComplete
+D:\Git App\TestMVC\ba\ba\obj\Debug\ba.dll
+D:\Git App\TestMVC\ba\ba\obj\Debug\ba.pdb
